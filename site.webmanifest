@@ -1,0 +1,16 @@
+{
+  "name": "Kmay Tech Solutions",
+  "short_name": "Kmay",
+  "description": "Landing pages que convierten visitas en clientes.",
+  "start_url": "/en",
+  "display": "standalone",
+  "background_color": "#f5f8fb",
+  "theme_color": "#0f3056",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
