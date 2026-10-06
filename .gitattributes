@@ -1,0 +1,3 @@
+# El repositorio contiene el build ya generado: Git no debe tocar
+# los saltos de linea ni normalizar ficheros binarios.
+* -text
