@@ -1,2 +1,7 @@
 User-agent: *
 Allow: /
+Disallow: /api/
+
+# El sitio canónico vive en Vercel; los espejos (GitHub Pages) no se
+# posicionan a propósito.
+Sitemap: https://kmay-tech-solutions.vercel.app/sitemap.xml

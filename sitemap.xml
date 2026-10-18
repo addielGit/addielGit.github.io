@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<url>
+<loc>https://kmay-tech-solutions.vercel.app/en</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kmay-tech-solutions.vercel.app/en" />
+<xhtml:link rel="alternate" hreflang="es" href="https://kmay-tech-solutions.vercel.app/es" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://kmay-tech-solutions.vercel.app/en" />
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://kmay-tech-solutions.vercel.app/es</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kmay-tech-solutions.vercel.app/en" />
+<xhtml:link rel="alternate" hreflang="es" href="https://kmay-tech-solutions.vercel.app/es" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://kmay-tech-solutions.vercel.app/en" />
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://kmay-tech-solutions.vercel.app/en/privacidad</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kmay-tech-solutions.vercel.app/en/privacidad" />
+<xhtml:link rel="alternate" hreflang="es" href="https://kmay-tech-solutions.vercel.app/es/privacidad" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://kmay-tech-solutions.vercel.app/en/privacidad" />
+<changefreq>yearly</changefreq>
+<priority>0.2</priority>
+</url>
+<url>
+<loc>https://kmay-tech-solutions.vercel.app/en/terminos</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kmay-tech-solutions.vercel.app/en/terminos" />
+<xhtml:link rel="alternate" hreflang="es" href="https://kmay-tech-solutions.vercel.app/es/terminos" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://kmay-tech-solutions.vercel.app/en/terminos" />
+<changefreq>yearly</changefreq>
+<priority>0.2</priority>
+</url>
+<url>
+<loc>https://kmay-tech-solutions.vercel.app/es/privacidad</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kmay-tech-solutions.vercel.app/en/privacidad" />
+<xhtml:link rel="alternate" hreflang="es" href="https://kmay-tech-solutions.vercel.app/es/privacidad" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://kmay-tech-solutions.vercel.app/en/privacidad" />
+<changefreq>yearly</changefreq>
+<priority>0.2</priority>
+</url>
+<url>
+<loc>https://kmay-tech-solutions.vercel.app/es/terminos</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kmay-tech-solutions.vercel.app/en/terminos" />
+<xhtml:link rel="alternate" hreflang="es" href="https://kmay-tech-solutions.vercel.app/es/terminos" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://kmay-tech-solutions.vercel.app/en/terminos" />
+<changefreq>yearly</changefreq>
+<priority>0.2</priority>
+</url>
+</urlset>
